@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>boda</title>
+  </head>
+  <body style="background-color: #ccffff;">
+    <p style="text-align: center; background-color: #ccffff;"><b>EN ESTA SECCION
+        ENCONTRARAS ALGUNAS FOTOGRAFIAS ALUSIVA A <span style="color: #ab62ff;">BODAS
+          </span></b></p>
+    <p style="background-color: #ccffff;"><br>
+    </p>
+    <table style="width: 923px; height: 292px; background-color: #ccffff;" border="1">
+      <tbody style="background-color: #ccffff;">
+        <tr style="background-color: #ccffff;">
+          <td style="width: 156.9px; text-align: center;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/catedral2.jpg"
+
+              title="catedral2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/catedral.JPG.png"
+
+                alt="boda" title="catedral"></a><br>
+          </td>
+          <td style="width: 194.367px; text-align: center;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/fatima2.jpg"
+
+              title="fatima2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/FATIMA.JPG.png"
+
+                alt="boda2" title="fatima" style="width: 168px; height: 251px;"></a><br>
+          </td>
+          <td style="width: 271.367px; text-align: center;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/domingo2.jpg"
+
+              title="domingo2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/santo%20domingo.JPG.png"
+
+                alt="boda3" title="santo domingo"></a><br>
+          </td>
+          <td style="width: 502.367px; text-align: center;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/bufa2.jpg"
+
+              title="bufa2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/BUFA.JPG.png"
+
+                alt="boda4" title="bufa"></a><br>
+          </td>
+        </tr>
+        <tr style="background-color: #ccffff;">
+          <td style="text-align: center; background-color: #ccffff;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/parque2.jpg"
+
+              title="parque2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/parque%20sierra%20de%20alica.JPG.png"
+
+                alt="boda5" title="parque sierra de alica"></a><br>
+          </td>
+          <td style="text-align: center; background-color: #ccffff;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/mina2.jpg"
+
+              title="mina2" target="_blank"><img src="file:///C:/Users/luzzamora/Pictures/pagina%20web/MINA.JPG.png"
+
+                alt="boda6" title="mina del eden"></a><br>
+          </td>
+          <td style="text-align: center; background-color: #ccffff;"><a href="file:///C:/Users/luzzamora/Pictures/pagina%20web/charra.jpg"
+
+              title="charra2" target="_blank"><img src="file:///C:BODACHARRA.JPG.png"
+
+                alt="boda7" title="boda charra"></a><br>
+          </td>
+          <td style="text-align: center; background-color: #ccffff;"><a href="file:salon2.jpg"
+
+              title="salon2" target="_blank"><img src="file:SALON.JPG.png"
+
+                alt="boda8" title="salon"></a><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+  </body>
+</html>
